@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: #f7efe1;
+  color: #3a1a08;
+  font: 17px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+main {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 48px 24px;
+}
+h1 {
+  color: #7a3b12;
+}
+a {
+  color: #9a4a14;
+}
